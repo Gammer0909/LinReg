@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VuSJqd2LwOfsXtzTdXie5O043YsY4fmOKZt/lZlZR3mjtp0fwthTxI479nUnpgP+OSD25/AeGXy+wDLRIky6A==",
+  "success": true,
+  "projectFilePath": "/Users/kalliegarzon/Documents/LinReg/LinReg.csproj",
+  "expectedPackageFiles": [
+    "/Users/kalliegarzon/.nuget/packages/csvhelper/31.0.3/csvhelper.31.0.3.nupkg.sha512",
+    "/Users/kalliegarzon/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
